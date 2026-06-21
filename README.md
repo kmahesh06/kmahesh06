@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏆 15 Years of Data Quality Engineering excellence<br>Azure DataBricks<br>🏦 Machine Learning in Banking — specializing in Liquidity Funds<br>🔬 Data Science · NLP · Deep Learning practitioner<br>🤖 POC builder: LLMs powered by Databases
+🏆 15 Years of Data Quality Engineering excellence<br>Azure DataBricks<br> ADF, ADLS Gen2<br>🏦 Machine Learning in Banking — specializing in Liquidity Funds<br>🔬 Data Science · NLP · Deep Learning practitioner<br>🤖 POC builder: LLMs powered by Databases
 
 
 ## 🌐 Socials:
